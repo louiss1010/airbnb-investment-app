@@ -1,0 +1,1 @@
+# cleaning functions, like turning 1250.00 into £1250.

@@ -1,0 +1,1 @@
+# for calculations, like the occupancy proxy, estimated revenue, the 90-night cap, and gross yield.

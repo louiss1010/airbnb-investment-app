@@ -1,0 +1,1 @@
+# the investment score. It normalises each factor, applies the persona weights, and returns the score plus a breakdown of why.
